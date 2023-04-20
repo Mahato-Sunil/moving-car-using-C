@@ -4,4 +4,4 @@ It is a simple demo of the use of the graphics program. The program simply shows
 * Inorder to run the graphics program, other supporting libraries should be downloaded and some settings has to be changed in compiler. 
 * The above program is created and run in the Dev C++ compiler after the necessary configuration. 
 * You can run the program in the Turbo C++ which is a very old compiler. Note that the path of the graphics should be changed to the folder where the graphics is located. Normally, the  File is stored in C:\\TC\BGI unless the installation is done in any other folder.
-#HappyCoding !!
+# HappyCoding !!
